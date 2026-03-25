@@ -27,7 +27,7 @@ const Home = () => {
       {/* Top Header - Blue Bar */}
       <header className="bg-[#1a237e] text-white py-4 px-6 text-center shadow-lg">
         <h1 className="text-xl md:text-3xl font-bold tracking-wide leading-tight">
-          खिरखिरी स्पोर्ट्स क्लब पिण्डरई के तत्वाधान में
+          खिरखिरी स्पोर्ट्स क्लब खिरखिरी के तत्वाधान में
         </h1>
         <p className="text-lg md:text-2xl mt-2 font-semibold">
           रात्रिकालीन क्रिकेट टूर्नामेंट
