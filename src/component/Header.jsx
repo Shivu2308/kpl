@@ -37,7 +37,7 @@ const Header = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-[#1a237e] font-black text-lg leading-none uppercase">KHIRKHIRI PREMIER LEAGUE</span>
-                <span className="text-orange-600 font-bold text-[10px] tracking-widest uppercase"> | 2026</span>
+                <span className="text-orange-600 font-bold text-[10px] tracking-widest uppercase"> SEASON 2.0 | 2026</span>
               </div>
             </Link>
           </div>
