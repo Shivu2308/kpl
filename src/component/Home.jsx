@@ -121,7 +121,7 @@ const Home = () => {
           </div>
           <div className="bg-blue-50 p-6 rounded-xl border-t-8 border-blue-800 shadow-sm text-center">
             <h4 className="text-blue-900 font-bold text-xl mb-2">Location</h4>
-            <p className="text-2xl font-black text-gray-800">Higher Secondary School Ground, Pindrai</p>
+            <p className="text-2xl font-black text-gray-800">Tuiyapni Aganwadi Ground, khhirkhiri</p>
           </div>
         </div>
       </main>
@@ -130,7 +130,7 @@ const Home = () => {
 
       {/* Footer */}
       <footer className="mt-12 py-6 bg-gray-100 text-center border-t border-gray-300">
-        <p className="text-gray-600 font-medium">© 2026 Bajrang Sports Club Pindrai | All Rights Reserved</p>
+        <p className="text-gray-600 font-medium">© 2026 khhirkhiri Sports Club, khhirkhiri | All Rights Reserved</p>
       </footer>
     </div>
   );
